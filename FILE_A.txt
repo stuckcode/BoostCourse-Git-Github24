@@ -1,3 +1,7 @@
 Este es un arhcivo de texto 
-agregado en el primer commit
+fue agregado en el primer commit
 de esta rama 😊.
+
+
+Modificado en el segundo commit, por una 
+palabra faltantate. 
